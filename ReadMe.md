@@ -4,7 +4,7 @@ In this notebook, I am going to build a classifier that performs Spam Message Ch
 Following are the steps to achieve required objective.
 
 ### a)  first read the  sample dataset which is in csv file which has spam/ham messages
-## b) This dataset has the following count of ham and spam text. 
+### b) This dataset has the following count of ham and spam text. 
 count of ham = 4825 count of spam = 747
 ### c) lets replace ham with 0 and spam with 1
 ### d) we split the dataset into test and train datasets
