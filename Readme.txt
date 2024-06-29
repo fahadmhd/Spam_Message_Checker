@@ -1,4 +1,4 @@
-#Spam Message Checker
+# Spam Message Checker
 
 In this notebook, I am going to build a classifier that performs Spam Message Checking.
 Following are the steps to achieve required objective.
